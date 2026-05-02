@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "Ohlivvvv.aternos.me",
+    "port": 35182,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -32,7 +32,7 @@
       "messages": [
         "I'm a regular player",
         "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "I like to play with nga admin!"
       ]
     },
     "chat-log": true,
